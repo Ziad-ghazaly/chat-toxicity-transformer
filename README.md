@@ -69,5 +69,5 @@ This project implements a custom **Transformer-based deep learning model** from 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chat-toxicity-transformer.git
+   git clone https://github.com/Ziad-ghazaly/chat-toxicity-transformer.git
    cd chat-toxicity-transformer
